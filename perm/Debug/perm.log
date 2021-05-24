@@ -1,0 +1,3 @@
+﻿  perm.cpp
+C:\Users\NICOLE\Documents\ADA\perm\perm.cpp(6,17): warning C4018:  '>=': no coinciden signed/unsigned
+  perm.vcxproj -> C:\Users\NICOLE\Documents\ADA\perm\Debug\perm.exe
